@@ -47,6 +47,10 @@ __pycache__/
 .Python
 data/
 data_recolor/
+data_aumt/
+letras_faltantes/
+capturas/
+data
 build/
 develop-eggs/
 dist/
